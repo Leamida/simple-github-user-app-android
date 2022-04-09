@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="theme_switcher">Theme switcher</string>
+    <string name="user_favorite">User favorite</string>
+    <string name="user_image">user image</string>
+    <string name="username">username</string>
+    <string name="detail_user">detail user</string>
+    <string name="follower">follower</string>
+    <string name="following">following</string>
+    <string name="repo">repo</string>
+    <string name="add_user_to_favorite">add user to favorite</string>
+    <string name="tidak_ada_data">Tidak Ada Data</string>
+    <string name="github_user_s_app">Github User\'s App</string>
+</resources>

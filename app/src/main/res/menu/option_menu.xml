@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:menuCategory="container">
+        <item android:id="@+id/userFavorite"
+            android:title="@string/user_favorite"
+            android:icon = "@drawable/ic_favorite"
+            app:showAsAction="always" />
+        <item android:id="@+id/themeSwitcher"
+            android:title="@string/theme_switcher"
+            android:icon = "@drawable/ic_moon"
+            app:showAsAction="always" />
+    </group>
+</menu>
